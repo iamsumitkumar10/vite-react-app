@@ -2,7 +2,7 @@
 
 // import Fruits from "./components/Fruits";
 // import Hello from "./components/Hello";
-// import Counter from "./components/Counter";
+import Counter from "./components/Counter";
 import Form from "./components/Form"; 
 
 
@@ -11,8 +11,8 @@ function App() {
     <div className="App">
       {/* <Message /> */}
       {/* <Fruits/> */}
-      {/* <Counter /> */}
-      <Form />
+      <Counter />
+      {/* <Form /> */}
 
 
 
